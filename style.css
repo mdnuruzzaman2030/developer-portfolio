@@ -5,3 +5,15 @@ body{
 h1{
     font-size: 50px;
 }
+
+.or{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+.hw{
+    width: 50%;
+}
